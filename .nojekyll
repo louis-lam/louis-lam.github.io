@@ -1,1 +1,4 @@
-# disable Jekyll
+# Jekyll config
+
+include:
+      - .wellknown
